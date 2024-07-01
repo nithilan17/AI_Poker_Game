@@ -1,0 +1,4 @@
+.env
+*.ipynb
+/openai-env
+/__pycache__
